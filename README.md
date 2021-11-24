@@ -3,6 +3,7 @@
  - I'm student at AGH University of Science and Technology in Kraków, Poland. 🎓
  - Programming is my passion. 💻
  - JS is the best 🌐
+ - [Website](https://michalszc.github.io/)
  
 <!--
 **michalszc/michalszc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
