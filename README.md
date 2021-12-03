@@ -4,6 +4,7 @@
  - Programming is my passion. 💻
  - JS is the best 🌐
  - [Website](https://michalszc.github.io/)
+ - [Fork: TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning](https://github.com/michalszc/tensorflow)
  
 <!--
 **michalszc/michalszc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
