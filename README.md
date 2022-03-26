@@ -23,10 +23,10 @@ const michalszc = {
     currentFocus: "Currently working on a game for mobile devices in Unity", // 🎯
     hobbies : [
        "Electronic music 🎧",
-       "Playing games 🎮"
-       "Mountain hiking ⛰️",
+       "Playing games 🎮",
+       "Mountain hiking ⛰️"
     ],
-    funFact: "My surname indicates a species of bird" // 🐦
+    funFact: "There is a species of  bird called like my surname" // 🐦
 };
 ```
  
