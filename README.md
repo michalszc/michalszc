@@ -1,4 +1,4 @@
-## Hi there! Great to see you here! <img src="wave.gif" width="30px">
+## Hi! Great to see you here! <img src="wave.gif" width="30px">
 
  I'm Michał Szczygieł and  I'm studying Computer Science and Intelligent Systems at AGH University of Science and Technology in Cracow, Poland 🎓
 
