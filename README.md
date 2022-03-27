@@ -3,7 +3,7 @@
  I'm Michał Szczygieł and  I'm studying Computer Science and Intelligent Systems at AGH University of Science and Technology in Cracow, Poland 🎓
 
  
- ## 💬 About me
+ ## 🗨️ About me 💬
  
  ```javascript
 const michalszc = {
@@ -34,13 +34,13 @@ const michalszc = {
  
  - pass
  
- ## 📈 Stats
+ ## 📈 Stats 📊
  
  [![michalszc's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalszc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![michalszc's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michalszc&theme=radical)](https://git.io/streak-stats)
  [![michalszc's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalszc&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
- ## 📝 Contact
+ ## 📝 Contact 📧
  - Feel free to contact with me at any time, on GitHub
  - My contact mail: michalszc05@gmail.com
  - My university mail: michalszc@agh.student.edu.pl
