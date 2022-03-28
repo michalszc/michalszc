@@ -38,7 +38,7 @@ const michalszc = {
  
  [![michalszc's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalszc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![michalszc's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michalszc&theme=radical)](https://git.io/streak-stats)
- [![michalszc's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalszc&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![michalszc's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalszc&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
  ## 📝 Contact 📧
  - Feel free to contact with me at any time, on GitHub
@@ -46,7 +46,7 @@ const michalszc = {
  - My university mail: michalszc@agh.student.edu.pl
  
 <!--
-[Website](https://michalszc.github.io/)  - WIP
+[Website](https://michalszc.github.io/)  - WIP show_icons=true&
 **michalszc/michalszc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
