@@ -32,7 +32,7 @@ const michalszc = {
  
  ## 🔔 My Latest GitHub Projects 🔨
  
- - pass
+ - 🏓 [Pong](https://github.com/michalszc/Pong)
  
  ## 📈 Stats 📊
  
