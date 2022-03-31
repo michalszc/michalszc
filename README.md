@@ -30,7 +30,7 @@ const michalszc = {
 };
 ```
  
- ## 🔔 My Latest GitHub Projects 🔨
+ ## 🔔 My Latest Projects 🔨
  
  - 🏓 [Pong](https://github.com/michalszc/Pong)
  
