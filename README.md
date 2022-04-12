@@ -1,7 +1,7 @@
 ## Hi! Great to see you here! <img src="wave.gif" width="30px">
 
- I'm Michał Szczygieł and  I'm studying Computer Science and Intelligent Systems at AGH University of Science and Technology in Cracow, Poland 🎓
-
+ I'm Michał Szczygieł and that's beginning of my IT career adventure. 😄
+ 
  
  ## 🗨️ About me 💬
  
@@ -10,7 +10,7 @@ const michalszc = {
     pronouns: "He" | "Him", // 👦
     code: ["Javascript", "Python", "C++", "PHP"], // ⌨️
     askMeAbout: ["web dev", "tech", "app dev", "electronic music"], // ❓
-    technologies: { 
+    technologies: {
         frontEnd : {
             js : [ "React" ]
         },
@@ -21,6 +21,14 @@ const michalszc = {
     }, // ⚙️
     architecture: [ "Progressive web applications", "Single page applications" ], // 💻
     currentFocus: "Currently working on a game for mobile devices in Unity", // 🎯
+    education: {
+        currentlyStudying: true,
+        where:{
+          university: "AGH University of Science and Technology in Cracow, Poland",
+          faculty: "Electrical Engineering, Automatics, Computer Science and Biomedical Engineering",
+          fieldOfStudy: "Computer Science and Intelligent Systems"
+        }  
+    }, // 🎓
     hobbies : [
        "Electronic music 🎧",
        "Playing games 🎮",
