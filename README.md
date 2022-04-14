@@ -8,7 +8,7 @@
  ```javascript
 const michalszc = {
     pronouns: "He" | "Him", // 👦
-    code: ["Javascript", "Python", "C++", "PHP"], // ⌨️
+    code: ["Javascript", "TypeScript", "Python", "PHP"], // ⌨️
     askMeAbout: ["web dev", "tech", "app dev", "electronic music"], // ❓
     technologies: {
         frontEnd : {
