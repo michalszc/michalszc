@@ -42,12 +42,6 @@ const michalszc = {
  
  - 🏓 [Pong](https://github.com/michalszc/Pong)
  
- ## 📈 Stats 📊
- 
- [![michalszc's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalszc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![michalszc's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michalszc&theme=radical)](https://git.io/streak-stats)
- [![michalszc's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalszc&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
  ## 📝 Contact 📧
  - Feel free to contact with me at any time, on GitHub
  - My contact mail: michalszc05@gmail.com
