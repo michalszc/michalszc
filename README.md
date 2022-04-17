@@ -40,7 +40,9 @@ const michalszc = {
  
  ## 🔔 My Latest Projects 🔨
  
+ - ✔️❌ [ToDoApp](https://github.com/michalszc/ToDoApp)
  - 🏓 [Pong](https://github.com/michalszc/Pong)
+
  
  ## 📝 Contact 📧
  - Feel free to contact with me at any time, on GitHub
