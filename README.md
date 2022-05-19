@@ -34,7 +34,7 @@ const michalszc = {
        "Playing games 🎮",
        "Mountain hiking ⛰️"
     ],
-    funFact: "There is a bird specie called exactly like my surname" // 🐦
+    funFact: "My surname = bird specie" // 🐦
 };
 ```
  
