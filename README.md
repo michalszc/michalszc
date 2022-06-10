@@ -1,4 +1,4 @@
-## Hi! Great to see you here! <img src="wave.gif" width="30px">
+## Hi! Great to see you here! <img src="wave.gif" width="30">
 
  I'm Michał Szczygieł and that's beginning of my IT career adventure. 😄
  
