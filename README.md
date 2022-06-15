@@ -40,6 +40,7 @@ const michalszc = {
  
  ## 🔔 My Latest Projects 🔨
  
+ - 🗒️ [Brainfuck IDE](https://github.com/michalszc/BrainfuckIDE)
  - ✔️❌ [ToDoApp](https://github.com/michalszc/ToDoApp)
  - 🏓 [Pong](https://github.com/michalszc/Pong)
 
